@@ -35,6 +35,23 @@ Kullanıcıların çalışma seanslarını (ekmek pişirme seansları) yönetere
 
 ## 📸 Uygulama Görselleri
 > **Not:** Uygulamanın en güncel halinden (Form 6 ve 7 dahil) ekran görüntülerini buraya ekleyerek görsel zenginlik katabilirsiniz.
+> ## 📸 Uygulama Arayüzü (7 Ana Modül)
+
+<p align="center">
+  <img src="form1.png" width="280" title="Giriş Ekranı">
+  <img src="form2.png" width="280" title="Kayıt Paneli">
+  <img src="form3.png" width="280" title="Ana Sayaç">
+</p>
+
+<p align="center">
+  <img src="form4.png" width="280" title="Ürün Seçimi">
+  <img src="form5.png" width="280" title="Odaklanma Paneli">
+  <img src="form6.png" width="280" title="Kullanıcı Bilgi Güncelleme">
+</p>
+
+<p align="center">
+  <img src="form7.png" width="400" title="Gelişmiş Ayarlar ve Raporlama">
+</p>
 
 ## ⚙️ Kurulum Talimatları
 1. Projeyi bilgisayarınıza indirin (Clone).
