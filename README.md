@@ -34,7 +34,6 @@ Kullanıcıların çalışma seanslarını (ekmek pişirme seansları) yönetere
 * `Data/`: SQL bağlantı dizesi ve veritabanı CRUD işlemleri.
 
 ## 📸 Uygulama Görselleri
-> **Not:** Uygulamanın en güncel halinden (Form 6 ve 7 dahil) ekran görüntülerini buraya ekleyerek görsel zenginlik katabilirsiniz.
 > ## 📸 Uygulama Arayüzü (7 Ana Modül)
 
 <p align="center">
